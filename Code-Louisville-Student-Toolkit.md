@@ -31,9 +31,9 @@ Treehouse videos and problem sets deliver most of the instruction on design, HTM
 
 After week four of the session, expect to transition away from Treehouse videos and begin work on your project. During the session, the videos will be available for you to review.
 
---- speed up time
---- ask for help with problem sets
---- ask and answer questions via Treehouse forums
+- speed up video playback time
+- ask for help with problem sets
+- ask and answer questions via Treehouse forums
 
 ## Tech community meetups
 
@@ -49,12 +49,12 @@ Code Louisville staff typically post meetup schedules on Slack. Other meetups ca
 ## Building your project
 
 Building your project will consume much of your remaining time. Consider the following tactics when building your project:
-    ### plan initially for a minimum viable project based on requirements
-    ### add project features from the requirements document as you have time
-    ### use Lorem Ipsum text and image placeholders as content
-    ### check your progress frequently with mentors and fellow students
-    ### get several mentors and fellow students to check your project
-    ### write clean code and clean documentation
+- plan initially for a minimum viable project based on requirements
+- add project features from the requirements document as you have time
+- use Lorem Ipsum text and image placeholders as content
+- check your progress frequently with mentors and fellow students
+- get several mentors and fellow students to check your project
+- write clean code and clean documentation
     
 After you pass your FEWD session, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville session. 
 
@@ -78,20 +78,20 @@ You can share your projects with each other, to make sure these projects will wo
 
 ## Coding tools
 
-### editor
+- editor
 
-### browser
+- browser
 
-### git/Github
+- git/Github
 
-### hosting
+- hosting
 
 ## Other resources
 
-### Google and other search engines
+- Google and other search engines
 
-### W3Schools
+- W3Schools
 
-### Mozilla and Chrome schools
+- Mozilla and Chrome schools
 
-### Code validators and prettifiers
+- Code validators and prettifiers
