@@ -49,12 +49,12 @@ Code Louisville staff typically post meetup schedules on Slack. Other meetups ca
 ## Building your project
 
 Building your project will consume much of your remaining time. Consider the following tactics when building your project:
-    H3 - plan initially for a minimum viable project based on requirements
-    H3 - add project features from the requirements document as you have time
-    H3 - use Lorem Ipsum text and image placeholders as content
-    H3 - check your progress frequently with mentors and fellow students
-    H3 - get several mentors and fellow students to check your project
-    H3 - write clean code and clean documentation
+    ### plan initially for a minimum viable project based on requirements
+    ### add project features from the requirements document as you have time
+    ### use Lorem Ipsum text and image placeholders as content
+    ### check your progress frequently with mentors and fellow students
+    ### get several mentors and fellow students to check your project
+    ### write clean code and clean documentation
     
 After you pass your FEWD session, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville session. 
 
