@@ -3,7 +3,7 @@
 
 This document describes tactics for success in Code Louisville's Front-End Web Development (FEWD) session. 
 
-Tactics include use of time, engagement in required activities, engagement with mentors and Code Louisville staff, and using other tools and resources.
+Tactics include use of time, engagement in required activities, working with mentors and Code Louisville staff, and using other tools and resources.
 
 ## Use of time
 
@@ -132,9 +132,7 @@ You may find the following links helpful:
 - Learn Difficult Concepts with the ADEPT Method https://betterexplained.com/articles/adept-method/
 - How to Become a More Effective Learner https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162
 - W3Schools [link]
-- Browser documentation
-  - Chrome documentation [link]
-  - Mozilla documentation [link]
+
 - Code validators and prettifiers find errors and beautify formatting
   - HTML [link]
   - CSS [link]
@@ -157,9 +155,12 @@ You may find the following links helpful:
   - Notepad++ https://notepad-plus-plus.org/
 
 ### Browser
-  Remarks about browsers.
-  - bullet
-  - bullet
+  At end of session, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
+  - Browser documentation
+    - Chrome [link]
+    - Chrome documentation [link]
+    - Mozilla (Firefox) [link]
+    - Mozilla documentation [link]
 
 ### git and Github
   Remarks about Github.
