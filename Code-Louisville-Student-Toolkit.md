@@ -91,6 +91,10 @@ You may find the following links helpful:
 - [free images]()
 - [lorem ipsum]()
 - [lorem ipsum]()
+- Other useful sites
+  - [Useful site](https://example.com/)
+  - [Useful site](https://example.com/)
+  - [Useful site](https://example.com/)
 
 ## Working with Code Louisville staff
 
@@ -139,6 +143,7 @@ As mentioned above, working through a Code Louisville course is a lot like worki
 Here are some study tips that may be helpful:
 - Set a goal when you begin your study time, such as "I want to set up Flexbox."
 - Have basic documentation and reference material on hand.
+- Work on your writing and communication skills.
 - Good study is basically exploratative. Set a direction, then hack away at obstacles toward your goal.
 - Find out how you learn best. Find a quiet spot, and hold down distractions. 
 - Get into a flow as you build that house of cards in your head. 
@@ -147,6 +152,7 @@ Here are some study tips that may be helpful:
 You may find the following links helpful:
 - [Learn Difficult Concepts with the ADEPT Method](https://betterexplained.com/articles/adept-method/)
 - [How to Become a More Effective Learner](https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
+- [Online Spell Check](https://www.online-spellcheck.com/)
 - []()
 - []()
 - []()
@@ -187,14 +193,17 @@ Here are some workflow tips:
 
 It is inevitable that your website will not work as you expected. You will have to find out what's wrong and fix it. This process of debugging can be very frustrating, and can be very creative and rewarding. The more debugging you do, the better you'll get. 
 
-Before any detailed debugging, run your HTML, CSS and JavaScript through code validators and formatters. Your code editor may assist in code formatting. 
+Before any detailed debugging, run your code through a validator. It's amazing how many little faults, like failing to close a div element, can be discovered by a validator. HTML, CSS, and JavaScript can be validated in this way. Fix all the faults the validator finds, until your code checks clean.
+
+Also before any detailed debugging, run your code through a formatter. Your code editor may assist in code formatting; learn how this feature works and use it. It is amazing how well-formatted and indented code can "snag" your eye to a trouble spot.
 
 Here are some debugging tips:
 - Have basic documentation and reference material on hand.
-- Compose a detailed statement of the problem you see, for your own reference.
-- Chop larger problems into smaller problems, until you have problems too small to escape solutions.
+- Pose a concise statement of your problem. This statement may be a basis for a Google search, or for asking for help.
+- Chop larger problems into smaller problems, until you have problems too small to fight back.
 - When debugging a feature, try it in isolation in a code pen.
 - When you add a new feature to your project, start small and simple until you learn all its corners.
+- If you've solved a problem that you think may interest others, post a summary of your work on Slack.
 - Use the [Rubber Duck method.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 You may find the following links helpful:
@@ -209,11 +218,6 @@ You may find the following links helpful:
     - [JSFiddle](https://jsfiddle.net/)
     - [JS Bin](https://jsbin.com/?html,output)
     - [Other code playgrounds](https://www.sitepoint.com/7-code-playgrounds/)
-  - [Online Spell Check](https://www.online-spellcheck.com/)
-- Other useful sites
-  - [Useful site](https://example.com/)
-  - [Useful site](https://example.com/)
-  - [Useful site](https://example.com/)
 
 ## Tools
 
