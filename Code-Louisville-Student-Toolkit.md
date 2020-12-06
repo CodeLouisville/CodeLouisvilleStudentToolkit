@@ -145,6 +145,10 @@ You may find the following links helpful:
 - Other useful sites
   - [links]
 
+## Debugging
+
+Remarks on debugging
+
 ## Tools
 
 ### Code editors
