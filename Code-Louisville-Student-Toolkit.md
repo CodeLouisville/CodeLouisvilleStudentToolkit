@@ -136,8 +136,8 @@ Here are some study tips that may be helpful:
 
 You may find the following links helpful:
 - [Code Louisville template project](https://example.com/)
-- [Learn Difficult Concepts with the ADEPT Method] (https://betterexplained.com/articles/adept-method/)
-- [How to Become a More Effective Learner] (https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
+- [Learn Difficult Concepts with the ADEPT Method](https://betterexplained.com/articles/adept-method/)
+- [How to Become a More Effective Learner](https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
 - [W3Schools](https://example.com/)
 
 ## Workflow
