@@ -135,10 +135,10 @@ Here are some study tips that may be helpful:
 - When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
 
 You may find the following links helpful:
-- [Code Louisville template project] [link]
+- [Code Louisville template project](https://example.com/)
 - [Learn Difficult Concepts with the ADEPT Method] (https://betterexplained.com/articles/adept-method/)
 - [How to Become a More Effective Learner] (https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
-- [W3Schools] [link]
+- [W3Schools](https://example.com/)
 
 ## Workflow
 
@@ -188,16 +188,18 @@ Here are some debugging tips:
 
 You may find the following links helpful:
 - Code validators and prettifiers help find errors and beautify formatting
-  - HTML [link]
-  - CSS [link]
-  - JavaScript [link]
+  - [HTML](https://example.com/)
+  - [CSS](https://example.com/)
+  - [JavaScript](https://example.com/)
   - Code pens are a way to build and test small website features in isolation
-    - [link]
-    - [link]
-    - [link]
+    - [Code pen](https://example.com/)
+    - [Code pen](https://example.com/)
+    - [Code pen](https://example.com/)
   - [Online Spell Check](https://www.online-spellcheck.com/)
 - Other useful sites
-  - [links]
+  - [Useful site](https://example.com/)
+  - [Useful site](https://example.com/)
+  - [Useful site](https://example.com/)
 
 ## Tools
 
@@ -211,10 +213,10 @@ You may find the following links helpful:
 ### Browser
   At end of session, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
   - Browser documentation
-    - [Chrome]()
-    - [Chrome documentation]()
-    - [Mozilla (Firefox)]()
-    - [Mozilla documentation]()
+    - [Chrome](https://example.com/)
+    - [Chrome documentation](https://example.com/)
+    - [Mozilla (Firefox)](https://example.com/)
+    - [Mozilla documentation](https://example.com/)
 
 ### Git and GitHub
   Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the session to deal with Git and GitHub, as this will likely not work well for you.
