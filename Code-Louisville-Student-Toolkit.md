@@ -121,11 +121,34 @@ Some tactics that may help when working with other students:
 - share direct-message Slack channels with each other
 - be mutually supportive
 
-## Study, ask questions, solve problems
+## Study, workflow, debugging
 
 As mentioned above, working through a Code Louisville session is a lot like working through a college course. That means working through a session is going to involve a lot of self-directed learning. You'll have to set your work times, and stick to them. You'll have to focus on murky areas and work on them until they become clear. If you have a problem, you will likely have to research the question yourself and adapt the answer to your specific need. The mentors and Code Louisville staff will help where possible, but most of the effort will come from you.
 
-Good study is basically exploratative. You try to find out what's out there, set a direction, and hack away at obstacles you encounter. Learn the names of the things you want to know about, as they will become search terms for Google. Learn the relationships between things, and a little something about why they exist. 
+Here are some study tips, I hope they are helpful!
+- Set a goal when you begin your study time, such as "I want to fix this styling error."
+- Good study is basically exploratative. Set a direction, then hack away at obstacles toward your goal.
+- Find out how you learn best. Find a quiet spot, and hold down distractions. 
+- Get into a flow as you build the house of cards in your head. 
+- Chop larger problems into smaller problems, until you have problems too small to escape solutions.
+- When you add a new feature to your project, start small and simple until you learn all its corners.
+- When trying out a new feature, first try it in a code pen (described below).
+- When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
+- Use the Rubber Duck method. https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+Think about workflow. As you build your project, you will write code, save it, test it, then commit it to your repository. Therefore, your attention will be focused in your editor, then in the browser, then in the git client, and finally in Github. Think of every loop around this circle as a "development unit of work" that ends in a repository push. Have all your tools open and be aware of how they work together.
+
+Here are some workflow tips:
+- Keep your unit of work small enough so that your commits are frequent, not much longer than thirty minutes apart.
+- Keep your unit of work small enough so that it expresses one idea in the project, such as a new feature or a bug fix.
+- Small units of work are easier to reason about if you have to review your past work.
+- Small units of work mean your work is being backed up on Github more frequently.
+- When your coding time ends, or you are called away, make a final commit and push. That's a unit of work also.
+- Remember that your browser and git client cannot "see" changes until they are saved in your editor.
+
+Remarks on debugging...
+
+Here are some debugging tips:
 
 You may find the following links helpful:
 - Code Louisville template project [link]
@@ -144,10 +167,6 @@ You may find the following links helpful:
   - Online Spell Check https://www.online-spellcheck.com/
 - Other useful sites
   - [links]
-
-## Debugging
-
-Remarks on debugging
 
 ## Tools
 
