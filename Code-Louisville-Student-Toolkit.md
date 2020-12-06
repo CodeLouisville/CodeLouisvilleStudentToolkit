@@ -1,13 +1,11 @@
 
 # Toolkit for Code Louisville FEWD Students, December 2020
 
-This document describes tactics for success in Code Louisville's Front-End Web Development (FEWD) sessions. 
-
-Tactics include use of time, engagement in required activities, working with mentors and Code Louisville staff, and using other tools and resources.
+This document describes tactics for success in Code Louisville's Front-End Web Development (FEWD) courses. Tactics include use of time, engagement in required activities, working with mentors and Code Louisville staff, and using tools and resources.
 
 ## Use of time
 
-A typical twelve-week Code Louisville session has about the coverage of material and time commitment as a freshman college class. So for a successful Code Louisville session, and assuming the workload of a three credit-hour college class, you will likely have to budget at least six to nine actual hours per week to cover all the material and work on your coding project. 
+A typical twelve-week Code Louisville session has about the coverage of material and time commitment as a freshman college class. So for a successful Code Louisville session, and assuming the workload of a three credit-hour college class, you will likely have to budget at least six to nine actual hours per week to cover all the material, attend required events, and work on your coding project. 
 
 Your time spent on Code Louisville will be like adding a new work day to your week. This time will be extracted from your other weekly activities and responsibilities, such as work, child care and family time, and leisure. You will likely need to negotiate with friends, family members and employers and ask their support in your new endeavor.
 
@@ -15,15 +13,15 @@ You may be tempted to extract time for Code Louisville from your sleep time. Ple
 
 Your time will be spent in four required activities: 
 - attending weekly mentor-led sessions
-- videos and problem sets from Treehouse
-- meetups with the tech community
-- delivery of a project as described in the FEWD requirements document
+- watching Treehouse videos and working problem sets
+- attending meetup events in the tech community
+- working on a project as described in the FEWD requirements document
     
 You will also spend time in other activities:
+- setting up and nursing your workstation
 - working with Code Louisville staff
 - working with mentors
 - working with other students
-- setting up your workstation
 - researching and self-learning in other ways
 
 ## Weekly mentor-led sessions
@@ -46,7 +44,7 @@ Here are some tactics that may help with weekly sessions:
 
 Treehouse videos and problem sets deliver most of the instruction on design, HTML, CSS, and JavaScript. There are about twelve hours of videos. The problem sets may take a little longer to complete.
 
-After week four of the session, expect to transition away from Treehouse videos and begin work on your project. During the session, the videos will be available for you to review.
+After week four of the course, expect to transition away from Treehouse videos and begin work on your project. During the course, the videos will be available for you to review.
 
 Here are some tactics that may help with videos and problem sets:
 - In Treehouse, it is possible to speed up video playback.
@@ -56,7 +54,7 @@ Here are some tactics that may help with videos and problem sets:
 
 ## Tech community meetups
 
-You will be expected to attend at least two tech community meetups per session. Each meetup may consume one to four hours of time, depending on the event. While the pandemic persists, most if not all meetups will be conducted via video conferencing, but this also gives you the chance to participate in out-of-town events.
+You will be expected to attend at least two tech community meetups per course. Each meetup may consume one to four hours of time, depending on the event. While the pandemic persists, most if not all meetups will be conducted via video conferencing, but this also gives you the chance to participate in out-of-town events.
 
 Code Louisville staff typically post meetup schedules on Slack. Other meetups can be discovered with a Google search.
 
@@ -75,7 +73,7 @@ Here are some tactics that may help with tech community meetups:
 
 ## Building your project
 
-Building your project will consume much of your remaining time. After you pass your FEWD session, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville session. 
+Building your project will consume much of your remaining time. After you pass your FEWD course, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville course. 
 
 Here are some tactics that may help when building your project:
 - Plan initially for a minimum number of features based on requirements.
@@ -95,11 +93,11 @@ Please check with Code Louisville staff:
 - if you want help finding a meetup
 - if you want job readiness advice
 - if you have special needs that should be accommodated
-- if anything arises that may jeopardize your ability to successfully complete the session
+- if anything arises that may jeopardize your ability to successfully complete the course
 
 ## Working with mentors
 
-Mentors are people in the software development industry who volunteer their time to help Code Louisville students successfully complete their sessions. Mentors do not set the requirements of the Code Louisville program, but they do help you navigate them. Mentors facilitate how to get done what has to be done.
+Mentors are people in the software development industry who volunteer their time to help Code Louisville students successfully complete their courses. Mentors do not set the requirements of the Code Louisville program, but they do help you navigate them. Mentors facilitate how to get done what has to be done.
 
 Please ask a mentor:
 - if you have a question about what you've seen in a Treehouse video
@@ -124,7 +122,7 @@ Some tactics that may help when working with other students:
 
 ## Study and research
 
-As mentioned above, working through a Code Louisville session is a lot like working through a college course. That means working through a session is going to involve a lot of self-directed learning. You'll have to set your work times, and stick to them. You'll have to focus on murky areas and work on them until they become clear. If you have a problem, you will likely have to research the question yourself and adapt the answer to your specific need. The mentors and Code Louisville staff will help where possible, but most of the effort will come from you.
+As mentioned above, working through a Code Louisville course is a lot like working through a college course. That means working through a course is going to involve a lot of self-directed learning. You'll have to set your work times, and stick to them. You'll have to focus on murky areas and work on them until they become clear. If you have a problem, you will likely have to research the question yourself and adapt the answer to your specific need. The mentors and Code Louisville staff will help where possible, but most of the effort will come from you.
 
 Here are some study tips that may be helpful:
 - Set a goal when you begin your study time, such as "I want to set up Flexbox."
@@ -211,7 +209,7 @@ You may find the following links helpful:
   - [Notepad++](https://notepad-plus-plus.org/)
 
 ### Browser
-  At end of session, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
+  At end of course, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
   - Browser documentation
     - [Chrome](https://example.com/)
     - [Chrome documentation](https://example.com/)
@@ -219,7 +217,7 @@ You may find the following links helpful:
     - [Mozilla documentation](https://example.com/)
 
 ### Git and GitHub
-  Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the session to deal with Git and GitHub, as this will likely not work well for you.
+  Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the course to deal with Git and GitHub, as this will likely not work well for you.
   
   ...There are a large number of Git clients, like the one built into Visual Studeo Code, or the standalone Git GUI client...
   
