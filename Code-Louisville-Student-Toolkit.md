@@ -85,7 +85,7 @@ Here are some tactics that may help when building your project:
 - get several mentors and fellow students to check your project
 - write clean code and clean documentation
 
-## Engagement with Code Louisville staff
+## Working with Code Louisville staff
 
 Code Louisville staff run the Code Louisville program, engage with local employers to determine curriculum, set and track program requirements, provide job placement readiness sessions, and track student success. Staff set the terms for what has to be done. 
 
@@ -97,9 +97,9 @@ Please check with Code Louisville staff:
 - if you have special needs that should be accommodated
 - if anything arises that may jeopardize your ability to successfully complete the session
 
-## Engagement with mentors
+## Working with mentors
 
-Mentors are people in the software developers who volunteer their time to help students successfully complete their sessions. Mentors do not set the requirements of the Code Louisville program, but they do help you navigate them. Mentors facilitate how to get done what has to be done.
+Mentors are people in the software development industry who volunteer their time to help Code Louisville students successfully complete their sessions. Mentors do not set the requirements of the Code Louisville program, but they do help you navigate them. Mentors facilitate how to get done what has to be done.
 
 Please ask a mentor:
 - if you have a question about what you've seen in a Treehouse video
@@ -109,7 +109,7 @@ Please ask a mentor:
 - to help resolve git repository problems
 - to look your project over as you near completion
 
-## Engagement with other students
+## Working with other students
 
 Although the project you turn in should reflect your own work, you are encouraged to work with other students. 
 
@@ -139,7 +139,7 @@ You may find the following links helpful:
   - HTML [link]
   - CSS [link]
   - JavaScript [link]
-  - Code pens are a way to build and test small feature 
+  - Code pens are a way to build and test small website features
     - [link]
     - [link]
     - [link]
@@ -163,6 +163,10 @@ You may find the following links helpful:
 
 ### git and Github
   Remarks about Github.
-
+  - bullet
+  - bullet
+  
 ### Hosting
   Remarks about hosting.
+  - bullet
+  - bullet
