@@ -5,13 +5,13 @@ This document describes tactics for success in Code Louisville's Front-End Web D
 
 ## Use of time
 
-A typical twelve-week Code Louisville session has about the coverage of material and time commitment as a freshman college class. So for a successful Code Louisville session, and assuming the workload of a three credit-hour college class, you will likely have to budget at least six to nine actual hours per week to cover all the material, attend required events, and work on your coding project. 
+A typical twelve-week Code Louisville course has about the coverage of material and time commitment as a freshman college class. So for a successful Code Louisville course, and assuming the workload of a three credit-hour college class, you will likely have to budget at least six to nine actual hours per week to cover all the material, attend required events, and work on your coding project. 
 
-Your time spent on Code Louisville will be like adding a new work day to your week. This time will be extracted from your other weekly activities and responsibilities, such as work, child care and family time, and leisure. You will likely need to negotiate with friends, family members and employers and ask their support in your new endeavor.
+The time you spend on Code Louisville will be like adding a new work day to your week. This time will compete with your other weekly activities and responsibilities, such as work, child care, family time, and leisure. You will likely need to negotiate with friends, family members and employers and ask their support in your new endeavor.
 
 You may be tempted to extract time for Code Louisville from your sleep time. Please do not do this, as you may become sick and miserable. Recent studies point to sleep as an important component of learning, as if our brains need time to piece together what we've learned in a day. Be happy, be productive, and get your proper sleep.
 
-Your time will be spent in four required activities: 
+You will spend time in four required activities: 
 - attending weekly mentor-led sessions
 - watching Treehouse videos and working problem sets
 - attending meetup events in the tech community
@@ -48,7 +48,7 @@ After week four of the course, expect to transition away from Treehouse videos a
 
 Here are some tactics that may help with videos and problem sets:
 - In Treehouse, it is possible to speed up video playback.
-- Ask for help if you get stuck on the problem sets.
+- Ask for help if you get stuck on a problem.
 - It is possible to ask and answer questions via the Treehouse forums.
 - Review topics in Treehouse as needed as you build your project.
 
@@ -56,7 +56,7 @@ Here are some tactics that may help with videos and problem sets:
 
 You will be expected to attend at least two tech community meetups per course. Each meetup may consume one to four hours of time, depending on the event. While the pandemic persists, most if not all meetups will be conducted via video conferencing, but this also gives you the chance to participate in out-of-town events.
 
-Code Louisville staff typically post meetup schedules on Slack. Other meetups can be discovered with a Google search.
+Code Louisville staff typically post meetup schedules on Slack. Other meetups can be discovered with a Google search. If you find out about a tech meetup that no one knows about, post a link to it in Slack.
 
 Tech meetups are beneficial because:
 - they give you a chance to network, to see and be seen
@@ -73,15 +73,24 @@ Here are some tactics that may help with tech community meetups:
 
 ## Building your project
 
-Building your project will consume much of your remaining time. After you pass your FEWD course, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville course. 
+Building your code project will consume much of your remaining time. After you pass your FEWD course, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville course. 
 
 Here are some tactics that may help when building your project:
 - Plan initially for a minimum number of features based on requirements.
 - Add project features from the requirements document as you have time.
 - Use Lorem Ipsum text and image placeholders as content.
 - Check your progress frequently with mentors and fellow students.
-- Get more than one opinion on the health of your project.
-- Write clean code and clean documentation. Use code prettifiers and spell checkers.
+- Get more than one opinion on the health of your project before you turn it in.
+- Write clean code. Run your code through code validators and formatters.
+- Write clean documentation. Check spelling and grammar. Use clean document structure. Use a spell checker.
+
+You may find the following links helpful:
+- [Code Louisville template project](https://github.com/CodeLouisville/front-end-template)
+- [W3Schools](https://www.w3schools.com/)
+- [image placeholder]()
+- [free images]()
+- [lorem ipsum]()
+- [lorem ipsum]()
 
 ## Working with Code Louisville staff
 
@@ -114,10 +123,13 @@ Although the project you turn in should reflect your own work, you are encourage
 
 You can share your projects with each other and give each other advice. If you see a question posted on Slack, and you know the answer, you are invited to answer it. This reflects how software developers actually work as they support each other in accomplishing goals.
 
+Think of yourself as being in a community of learners. Even the mentors are in a process of learning. A carreer in software development requires constant learning. And you may be called upon to teach others sooner than you think.
+
 Some tactics that may help when working with other students:
 - Trade GitHub repository links, and get each other's project running successfully.
 - Have a scheduled study-hall time together each week.
 - Share direct-message Slack channels with each other.
+- Work on your writing and communication skills.
 - Be mutually supportive.
 
 ## Study and research
@@ -133,10 +145,11 @@ Here are some study tips that may be helpful:
 - When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
 
 You may find the following links helpful:
-- [Code Louisville template project](https://example.com/)
 - [Learn Difficult Concepts with the ADEPT Method](https://betterexplained.com/articles/adept-method/)
 - [How to Become a More Effective Learner](https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
-- [W3Schools](https://example.com/)
+- []()
+- []()
+- []()
 
 ## Workflow
 
@@ -174,7 +187,7 @@ Here are some workflow tips:
 
 It is inevitable that your website will not work as you expected. You will have to find out what's wrong and fix it. This process of debugging can be very frustrating, and can be very creative and rewarding. The more debugging you do, the better you'll get. 
 
-Before any detailed debugging, run your HTML, CSS and JavaScript through code validators and prettifiers.
+Before any detailed debugging, run your HTML, CSS and JavaScript through code validators and formatters. Your code editor may assist in code formatting. 
 
 Here are some debugging tips:
 - Have basic documentation and reference material on hand.
@@ -185,14 +198,17 @@ Here are some debugging tips:
 - Use the [Rubber Duck method.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 You may find the following links helpful:
-- Code validators and prettifiers help find errors and beautify formatting
-  - [HTML](https://example.com/)
-  - [CSS](https://example.com/)
-  - [JavaScript](https://example.com/)
-  - Code pens are a way to build and test small website features in isolation
-    - [Code pen](https://example.com/)
-    - [Code pen](https://example.com/)
-    - [Code pen](https://example.com/)
+- Code validators and formatters help find errors and beautify formatting
+  - [HTML Markup Validation Service](https://validator.w3.org/)
+  - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+  - [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+  - [CSS Beautifier](https://www.freeformatter.com/css-beautifier.html)
+  - [Javascript Validator and Formatter](http://beautifytools.com/javascript-validator.php)
+  - Code playgrounds are a way to build and test small website features in isolation
+    - [CodePen](https://codepen.io/)
+    - [JSFiddle](https://jsfiddle.net/)
+    - [JS Bin](https://jsbin.com/?html,output)
+    - [Other code playgrounds](https://www.sitepoint.com/7-code-playgrounds/)
   - [Online Spell Check](https://www.online-spellcheck.com/)
 - Other useful sites
   - [Useful site](https://example.com/)
