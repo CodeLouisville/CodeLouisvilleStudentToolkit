@@ -28,7 +28,7 @@ You will also spend time in other activities:
 
 ## Weekly mentor-led sessions
 
-Every week on assigned nights, students will meet together with mentors and Code Louisville staff to discuss progress and difficulties. Mentors will demonstrate certain topics in greater detail, such as workstation setup, website design tips, JavaScript programming, Github repository setup, and career directions. Code Louisville staff will discuss course requirements in greater detail.
+Every week on assigned nights, students will meet together with mentors and Code Louisville staff to discuss progress and difficulties. Mentors will demonstrate certain topics in greater detail, such as workstation setup, website design tips, JavaScript programming, GitHub repository setup, and career directions. Code Louisville staff will discuss course requirements in greater detail.
 
 Each nightly session will last about two hours, and will be conducted via video conferencing for the foreseeable future. Come prepared to describe what your project is about, share ongoing work on your project, ask questions, and possibly answer questions from other students. 
 
@@ -40,7 +40,7 @@ Here are some tactics that may help with weekly sessions:
 - when you share your text editor window, use large text settings
 - pay attention when other students present, you may see the answer to a problem you are having
 - pay attention when other students present, you may see a chance to help answer a question they have
-- when you want to share your project with someone, provide a link to your Github project repository
+- when you want to share your project with someone, provide a link to your GitHub project repository
 
 ## Treehouse videos
 
@@ -106,7 +106,7 @@ Please ask a mentor:
 - how to approach website design
 - if you have questions about working in the tech field
 - how to use HTML, CSS, or JavaScript in your project
-- to help resolve git repository problems
+- to help resolve Git repository problems
 - to look your project over as you near completion
 
 ## Working with other students
@@ -116,7 +116,7 @@ Although the project you turn in should reflect your own work, you are encourage
 You can share your projects with each other and give each other advice. If you see a question posted on Slack, and you know the answer, you are invited to answer it. This reflects how software developers actually work as they support each other in accomplishing goals.
 
 Some tactics that may help when working with other students:
-- trade Github repository links, and get each other's project running successfully
+- trade GitHub repository links, and get each other's project running successfully
 - have a scheduled study-hall time together each week
 - share direct-message Slack channels with each other
 - be mutually supportive
@@ -136,17 +136,17 @@ Here are some study tips, I hope they are helpful!
 - When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
 - Use the Rubber Duck method. https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
-Think about workflow. As you build your project, you will write code, save it, test it, then commit it to your repository. Therefore, your attention will be focused in your editor, then in the browser, then in the git client, and finally in Github. Think of every loop around this circle as a "development unit of work" that ends in a repository push. Have all your tools open and be aware of how they work together.
+Think about workflow. As you build your project, you will write code, save it, test it, then commit it to your repository. Therefore, your attention will be focused in your editor, then in the browser, then in the Git client, and finally in GitHub. Think of every loop around this circle as a "development unit of work" that ends in a repository push. Have all your tools open and be aware of how they work together.
 
 Here are some workflow tips:
 - Keep your unit of work small enough so that your commits are frequent, not much longer than thirty minutes apart.
 - Keep your unit of work small enough so that it expresses one idea in the project, such as a new feature or a bug fix.
 - Small units of work are easier to reason about if you have to review your past work.
-- Small units of work mean your work is being backed up on Github more frequently.
+- Small units of work mean your work is being backed up on GitHub more frequently.
 - When your coding time ends, or you are called away, make a final commit and push. That's a unit of work also.
-- Remember that your browser and git client cannot "see" changes until they are saved in your editor.
+- Remember that your browser and Git client cannot "see" changes until they are saved in your editor.
 
-Remarks on debugging...
+...Remarks on debugging...
 
 Here are some debugging tips:
 
@@ -171,7 +171,7 @@ You may find the following links helpful:
 ## Tools
 
 ### Code editors
-  Remarks about editors.
+  ...Remarks about editors...
   - Visual Studio Code https://code.visualstudio.com/
   - Sublime Text http://www.sublimetext.com/
   - Atom https://atom.io/
@@ -185,12 +185,31 @@ You may find the following links helpful:
     - Mozilla (Firefox) [link]
     - Mozilla documentation [link]
 
-### git and Github
-  Remarks about Github.
-  - bullet
-  - bullet
+### Git and GitHub
+  Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the session to deal with Git and GitHub, as this will likely not work well for you.
+  
+  ...There are a large number of Git clients, like the one built into Visual Studeo Code, or the standalone Git GUI client...
+  
+  Here are some of the services that Git and GitHub provide:
+  - Git tracks all the work you've done on your project.
+  - Git uses a chaining scheme to assure that your repository cannot be falsified by bad actors.
+  - Git allows you to work in speculative "branches," then merge those branches into main development later.
+  - Git and GitHub can coordinate the work of multiple people on a single project.
+  - Git and Github allow for each developer to be disconnected from each other, and join work together later.
+  - GitHub allows you to share your work and ideas around the world for free.
+  - GitHub allows you to find and examine the work of many talented people around the world.
+  - GitHub allows you to contribute to other software projects.
+  - Github can be used for other digital work, such as books and musical scores.
+  - GitHub can help build, deploy and host your projects.
+  
+  Here are links to Git documentation you may find useful:
+  - Git Tutorial https://git-scm.com/docs/gittutorial
+  - Getting Git right https://www.atlassian.com/git
+  - GitHub for the rest of us https://www.infoworld.com/article/2886828/github-for-the-rest-of-us.html
+  - Git For Ages 4 And Up https://www.youtube.com/watch?v=1ffBJ4sVUb4
   
 ### Hosting
-  Remarks about hosting.
-  - bullet
-  - bullet
+  There are several ways to convey your project to someone who is interested in a running and examining it. However you chose, make sure you describe in your project README how a guest can put your project into action.
+  - Have your guest clone or download your project to their workstation, and point their browser to the index.html file.
+  - Have GitHub host your project, and give your guest a link to that site. [link]
+  - Subscribe to a hosting site, such as Azure or AWS, and point your guest to that site.
