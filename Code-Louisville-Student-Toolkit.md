@@ -131,30 +131,31 @@ You may find the following links helpful:
 - Code Louisville template project [link]
 - ADEPT https://betterexplained.com/articles/adept-method/
 - How to Become a More Effective Learner https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162
-
-### W3Schools
-  Remarks about
-
-- Mozilla and Chrome schools
-  Remarks about
-
+- W3Schools [link]
+- Mozilla and Chrome [links]
+  - Chrome documentation [link]
+  - Mozilla documentation [link]
 - Code validators and prettifiers
-  Remarks about
-
+  - [links]
+  - [links]
+  - [links]
+  - Online Spell Check https://www.online-spellcheck.com/
 - Other useful sites
-  Remarks about
+  - [links]
 
 ## Coding tools
 
 ### Code editors
   Remarks about editors.
-  Visual Studio Code https://code.visualstudio.com/
-  Sublime Text http://www.sublimetext.com/
-  Atom https://atom.io/
-  Notepad++ https://notepad-plus-plus.org/
+  - Visual Studio Code https://code.visualstudio.com/
+  - Sublime Text http://www.sublimetext.com/
+  - Atom https://atom.io/
+  - Notepad++ https://notepad-plus-plus.org/
 
 ### Browser
   Remarks about browsers.
+  - bullet
+  - bullet
 
 ### git/Github
   Remarks about Github.
