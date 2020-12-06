@@ -129,21 +129,25 @@ Good study is basically exploratative. You try to find out what's out there, set
 
 You may find the following links helpful:
 - Code Louisville template project [link]
-- ADEPT https://betterexplained.com/articles/adept-method/
+- Learn Difficult Concepts with the ADEPT Method https://betterexplained.com/articles/adept-method/
 - How to Become a More Effective Learner https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162
 - W3Schools [link]
-- Mozilla and Chrome [links]
+- Browser documentation
   - Chrome documentation [link]
   - Mozilla documentation [link]
-- Code validators and prettifiers
-  - [links]
-  - [links]
-  - [links]
+- Code validators and prettifiers find errors and beautify formatting
+  - HTML [link]
+  - CSS [link]
+  - JavaScript [link]
+  - Code pens are a way to build and test small feature 
+    - [link]
+    - [link]
+    - [link]
   - Online Spell Check https://www.online-spellcheck.com/
 - Other useful sites
   - [links]
 
-## Coding tools
+## Tools
 
 ### Code editors
   Remarks about editors.
@@ -157,7 +161,7 @@ You may find the following links helpful:
   - bullet
   - bullet
 
-### git/Github
+### git and Github
   Remarks about Github.
 
 ### Hosting
