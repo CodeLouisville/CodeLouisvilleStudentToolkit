@@ -222,7 +222,11 @@ You may find the following links helpful:
 ## Tools
 
 ### Code editors
-  ...Remarks about editors...
+  
+  I've seen students agonize about choosing "the best code editor." You do not have to agonize; just pick a code editor and go with it. If you don't like how it operates, pick another and keep going. The only real requirement for a good code editor for FEWD is that it produce "flat text." Flat text is plainly readable text unadorned with formatting metadata as is produced from a word processor such as Microsoft Word or Libre Office Writer. 
+  
+  There are a number of good choices for code editors; some are listed below. You may find others with a Google search. Features to look for are keyword highlighting, automatic code formatting, and element generation/closure. 
+  
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Sublime Text](http://www.sublimetext.com/)
   - [Atom](https://atom.io/)
@@ -230,26 +234,28 @@ You may find the following links helpful:
 
 ### Browser
   At end of course, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
-  - Browser documentation
-    - [Chrome](https://example.com/)
-    - [Chrome documentation](https://example.com/)
-    - [Mozilla (Firefox)](https://example.com/)
-    - [Mozilla documentation](https://example.com/)
+
+  Whatever browser you choose, learn to use its built-in developer inspection tools. These tools can give you a large amount of information about the behavior of your website, such as: Where does a certain element get its styling? Why is my JavaScript returning the wrong results? And, why is an image not being found? Developer tools allow you single-step through a JavaScript program, and alter CSS statements within the browser to immediately debug styling problems.
+
+    - [Chrome](https://www.google.com/chrome/)
+    - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+    - [Mozilla (Firefox)](https://www.mozilla.org/en-US/firefox/)
+    - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 ### Git and GitHub
   Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the course to deal with Git and GitHub, as this will likely not work well for you.
   
-  ...There are a large number of Git clients, like the one built into Visual Studeo Code, or the standalone Git GUI client...
+  There are a large number of Git clients available, such as the one built into Visual Studeo Code, or the standalone Git GUI client. Because mentors have various experiences with Git clients, and because students have different tools and operating systems installed on their workstations, and because Treehouse offers instruction is just the command-line version of Git, it is important that FEWD students use the command-line version of Git. For Windows, this means the Git Bash client; for Mac, this is the Terminal client. In later courses, you may use other Git clients you prefer. But for FEWD, please master the command-line Git client.
   
   Here are some of the services that Git and GitHub provide:
-  - Git tracks all the work you've done on your project.
+  - Git tracks and keeps a record of all the work you've done on your project.
   - Git uses a chaining scheme to assure that your repository cannot be falsified by bad actors.
   - Git allows you to work in speculative "branches," then merge those branches into main development later.
   - Git and GitHub can coordinate the work of multiple people on a single project.
   - Git and Github allow for each developer to be disconnected from each other, and join work together later.
   - GitHub allows you to share your work and ideas around the world for free.
   - GitHub allows you to find and examine the work of many talented people around the world.
-  - GitHub allows you to contribute to other software projects.
+  - GitHub allows you to collaborate with other software projects.
   - Github can be used for other digital work, such as books and musical scores.
   - GitHub can help build, deploy and host your projects.
   
@@ -261,6 +267,10 @@ You may find the following links helpful:
   
 ### Hosting
   There are several ways to convey your project to someone who is interested in a running and examining it. However you chose, make sure you describe in your project README how a guest can put your project into action.
-  - Have your guest clone or download your project to their workstation, and point their browser to the index.html file.
-  - Have GitHub host your project, and give your guest a link to that site. [More info]()
+  - Have your guest clone or download your project to their workstation, then point their browser to the index.html file.
+  - Have GitHub host your project, and give your guest a link to that site. [GitHub Pages](https://pages.github.com/)
   - Subscribe to a hosting site, such as Azure or AWS, and point your guest to that site.
+
+## Final Thoughts
+
+## About the author
