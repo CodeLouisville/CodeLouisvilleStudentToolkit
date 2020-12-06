@@ -121,34 +121,68 @@ Some tactics that may help when working with other students:
 - share direct-message Slack channels with each other
 - be mutually supportive
 
-## Study, workflow, debugging
+## Study habits
 
 As mentioned above, working through a Code Louisville session is a lot like working through a college course. That means working through a session is going to involve a lot of self-directed learning. You'll have to set your work times, and stick to them. You'll have to focus on murky areas and work on them until they become clear. If you have a problem, you will likely have to research the question yourself and adapt the answer to your specific need. The mentors and Code Louisville staff will help where possible, but most of the effort will come from you.
 
-Here are some study tips, I hope they are helpful!
-- Set a goal when you begin your study time, such as "I want to fix this styling error."
+Here are some study tips that may be helpful:
+- Set a goal when you begin your study time, such as "I want to fix a styling error."
 - Good study is basically exploratative. Set a direction, then hack away at obstacles toward your goal.
 - Find out how you learn best. Find a quiet spot, and hold down distractions. 
-- Get into a flow as you build the house of cards in your head. 
-- Chop larger problems into smaller problems, until you have problems too small to escape solutions.
-- When you add a new feature to your project, start small and simple until you learn all its corners.
-- When trying out a new feature, first try it in a code pen (described below).
-- When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
-- Use the Rubber Duck method. https://en.wikipedia.org/wiki/Rubber_duck_debugging
+- Get into a flow as you build that house of cards in your head. 
 
-Think about workflow. As you build your project, you will write code, save it, test it, then commit it to your repository. Therefore, your attention will be focused in your editor, then in the browser, then in the Git client, and finally in GitHub. Think of every loop around this circle as a "development unit of work" that ends in a repository push. Have all your tools open and be aware of how they work together.
+## Research
+
+...Remarks on research...
+
+Here are some research tactics that may be helpful:
+- When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
+- item
+
+## Workflow
+
+Think about workflow. As you build your project, you will 
+- write code changes
+- save your changes
+- see what happens when your changes take effect
+- rewrite code until your changes appear to work properly
+- commit those changes to your repository
+- repeat the steps above
+
+Therefore, your attention will be focused
+- in the editor
+- in the browser's main display
+- in the browser's debugging tool
+- in the Git client
+- in GitHub
+- repeat the steps above
+
+Think of every loop around this circle as a development "unit of work" that ends with a repository push. 
 
 Here are some workflow tips:
+- Have all your tools open and be aware of how they work together.
+- You may eventually want more display monitor "real estate," such as a second larger monitor.
 - Keep your unit of work small enough so that your commits are frequent, not much longer than thirty minutes apart.
 - Keep your unit of work small enough so that it expresses one idea in the project, such as a new feature or a bug fix.
 - Small units of work are easier to reason about if you have to review your past work.
 - Small units of work mean your work is being backed up on GitHub more frequently.
+- Make a habit of pushing after every commit, since this will ensure that your changes get backed up to GitHub.
 - When your coding time ends, or you are called away, make a final commit and push. That's a unit of work also.
 - Remember that your browser and Git client cannot "see" changes until they are saved in your editor.
 
-...Remarks on debugging...
+## Debugging
+
+It is inevitable that your website will not work as you expected. You will have to find out what's wrong and fix it. This process of debugging can be very frustrating, and can be very creative and rewarding. The more debugging you do, the better you'll get. 
 
 Here are some debugging tips:
+- Compose a detailed statement of the problem you see, for your own reference.
+- Build a bookmark library of basic documentation on HTML, CSS, JavaScript, and your browser, for your reference.
+- Chop larger problems into smaller problems, until you have problems too small to escape solutions.
+- When debugging a feature, try it in isolation in a code pen.
+- When you add a new feature to your project, start small and simple until you learn all its corners.
+- Use the Rubber Duck method. https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+
 
 You may find the following links helpful:
 - Code Louisville template project [link]
