@@ -33,14 +33,14 @@ Every week on assigned nights, students will meet together with mentors and Code
 Each nightly session will last about two hours, and will be conducted via video conferencing for the foreseeable future. Come prepared to describe what your project is about, share ongoing work on your project, ask questions, and possibly answer questions from other students. 
 
 Here are some tactics that may help with weekly sessions:
-- early in building your project, prepare and share a wire diagram of your website layout
-- weekly sessions are a good time to get help for difficulties you may be facing
-- during a video conference, keep your microphone muted when not talking
-- when you do talk, use headphones to help prevent feedback from your end
-- when you share your text editor window, use large text settings
-- pay attention when other students present, you may see the answer to a problem you are having
-- pay attention when other students present, you may see a chance to help answer a question they have
-- when you want to share your project with someone, provide a link to your GitHub project repository
+- Weekly sessions are a good time to get help for difficulties you may be facing.
+- Early in building your project, prepare and share a wireframe diagram of your website layout.
+- During a video conference, keep your microphone muted when not talking.
+- When you do talk, use headphones to help prevent feedback from your end.
+- When you share your text editor window, use large text settings.
+- Pay attention when other students present, you may see the answer to a problem you have.
+- Pay attention when other students present, you may see a chance to answer a question they have.
+- When you want to share your project with someone, provide a link to your GitHub project repository.
 
 ## Treehouse videos
 
@@ -49,10 +49,10 @@ Treehouse videos and problem sets deliver most of the instruction on design, HTM
 After week four of the session, expect to transition away from Treehouse videos and begin work on your project. During the session, the videos will be available for you to review.
 
 Here are some tactics that may help with videos and problem sets:
-- in Treehouse, it is possible to speed up video playback
-- try the problem sets, but do not get stuck on them; ask for help if needed
-- it is possible to ask and answer questions via the Treehouse forums
-- use Treehouse for closer review of topics as you build your project
+- In Treehouse, it is possible to speed up video playback.
+- Ask for help if you get stuck on the problem sets.
+- It is possible to ask and answer questions via the Treehouse forums.
+- Use Treehouse to review topics as you build your project.
 
 ## Tech community meetups
 
@@ -67,23 +67,23 @@ Tech meetups are beneficial because:
 - you can let others know what opportunities you are looking for
 
 Here are some tactics that may help with tech community meetups:
-- introduce yourself to someone
-- introduce two people who have not met
-- learn someone's name and company
-- share some of your your experience with someone
-- ask someone else about their work and experience
+- Introduce yourself to someone.
+- Introduce two people who have not met.
+- Learn someone's name and company.
+- Share some of your your experience with someone.
+- Ask someone else about their work and experience.
 
 ## Building your project
 
 Building your project will consume much of your remaining time. After you pass your FEWD session, your FEWD website project belongs to you. You can improve and add to it as you please, and even use it as part of a future Code Louisville session. 
 
 Here are some tactics that may help when building your project:
-- plan initially for a minimum number of features based on requirements
-- add project features from the requirements document as you have time
-- use Lorem Ipsum text and image placeholders as content
-- check your progress frequently with mentors and fellow students
-- get several mentors and fellow students to check your project
-- write clean code and clean documentation
+- Plan initially for a minimum number of features based on requirements.
+- Add project features from the requirements document as you have time.
+- Use Lorem Ipsum text and image placeholders as content.
+- Check your progress frequently with mentors and fellow students.
+- Get more than one opinion on the health of your project.
+- Write clean code and clean documentation. Use code prettifiers and spell checkers.
 
 ## Working with Code Louisville staff
 
@@ -104,10 +104,11 @@ Mentors are people in the software development industry who volunteer their time
 Please ask a mentor:
 - if you have a question about what you've seen in a Treehouse video
 - how to approach website design
-- if you have questions about working in the tech field
 - how to use HTML, CSS, or JavaScript in your project
+- if you are having problems with your project or how a tool works
 - to help resolve Git repository problems
 - to look your project over as you near completion
+- if you have questions about working in the tech field
 
 ## Working with other students
 
@@ -116,10 +117,10 @@ Although the project you turn in should reflect your own work, you are encourage
 You can share your projects with each other and give each other advice. If you see a question posted on Slack, and you know the answer, you are invited to answer it. This reflects how software developers actually work as they support each other in accomplishing goals.
 
 Some tactics that may help when working with other students:
-- trade GitHub repository links, and get each other's project running successfully
-- have a scheduled study-hall time together each week
-- share direct-message Slack channels with each other
-- be mutually supportive
+- Trade GitHub repository links, and get each other's project running successfully.
+- Have a scheduled study-hall time together each week.
+- Share direct-message Slack channels with each other.
+- Be mutually supportive.
 
 ## Study habits
 
