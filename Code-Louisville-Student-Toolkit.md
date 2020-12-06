@@ -133,31 +133,31 @@ You may find the following links helpful:
 - How to Become a More Effective Learner https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162
 
 - W3Schools
-Remarks about
+  Remarks about
 
 - Mozilla and Chrome schools
-Remarks about
+  Remarks about
 
 - Code validators and prettifiers
-Remarks about
+  Remarks about
 
 - Other useful sites
-Remarks about
+  Remarks about
 
 ## Coding tools
 
 - Code editor
-Remarks about editors.
-Visual Studio Code https://code.visualstudio.com/
-Sublime Text http://www.sublimetext.com/
-Atom https://atom.io/
-Notepad++ https://notepad-plus-plus.org/
+  Remarks about editors.
+  Visual Studio Code https://code.visualstudio.com/
+  Sublime Text http://www.sublimetext.com/
+  Atom https://atom.io/
+  Notepad++ https://notepad-plus-plus.org/
 
 - Browser
-Remarks about browsers.
+  Remarks about browsers.
 
 - git/Github
-Remarks about Github.
+  Remarks about Github.
 
 - Hosting
-Remarks about hosting.
+  Remarks about hosting.
