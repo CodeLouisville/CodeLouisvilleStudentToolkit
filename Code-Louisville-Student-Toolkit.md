@@ -132,7 +132,7 @@ You may find the following links helpful:
 - ADEPT https://betterexplained.com/articles/adept-method/
 - How to Become a More Effective Learner https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162
 
-- W3Schools
+### W3Schools
   Remarks about
 
 - Mozilla and Chrome schools
@@ -146,18 +146,18 @@ You may find the following links helpful:
 
 ## Coding tools
 
-- Code editor
+### Code editors
   Remarks about editors.
   Visual Studio Code https://code.visualstudio.com/
   Sublime Text http://www.sublimetext.com/
   Atom https://atom.io/
   Notepad++ https://notepad-plus-plus.org/
 
-- Browser
+### Browser
   Remarks about browsers.
 
-- git/Github
+### git/Github
   Remarks about Github.
 
-- Hosting
+### Hosting
   Remarks about hosting.
