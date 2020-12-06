@@ -52,7 +52,7 @@ Here are some tactics that may help with videos and problem sets:
 - In Treehouse, it is possible to speed up video playback.
 - Ask for help if you get stuck on the problem sets.
 - It is possible to ask and answer questions via the Treehouse forums.
-- Use Treehouse to review topics as you build your project.
+- Review topics in Treehouse as needed as you build your project.
 
 ## Tech community meetups
 
@@ -122,23 +122,23 @@ Some tactics that may help when working with other students:
 - Share direct-message Slack channels with each other.
 - Be mutually supportive.
 
-## Study habits
+## Study and research
 
 As mentioned above, working through a Code Louisville session is a lot like working through a college course. That means working through a session is going to involve a lot of self-directed learning. You'll have to set your work times, and stick to them. You'll have to focus on murky areas and work on them until they become clear. If you have a problem, you will likely have to research the question yourself and adapt the answer to your specific need. The mentors and Code Louisville staff will help where possible, but most of the effort will come from you.
 
 Here are some study tips that may be helpful:
-- Set a goal when you begin your study time, such as "I want to fix a styling error."
+- Set a goal when you begin your study time, such as "I want to set up Flexbox."
+- Have basic documentation and reference material on hand.
 - Good study is basically exploratative. Set a direction, then hack away at obstacles toward your goal.
 - Find out how you learn best. Find a quiet spot, and hold down distractions. 
 - Get into a flow as you build that house of cards in your head. 
-
-## Research
-
-...Remarks on research...
-
-Here are some research tactics that may be helpful:
 - When researching on Google, make sure your search terms are accurate enough to locate what you want to find.
-- item
+
+You may find the following links helpful:
+- [Code Louisville template project] [link]
+- [Learn Difficult Concepts with the ADEPT Method] (https://betterexplained.com/articles/adept-method/)
+- [How to Become a More Effective Learner] (https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
+- [W3Schools] [link]
 
 ## Workflow
 
@@ -158,16 +158,17 @@ Therefore, your attention will be focused
 - in GitHub
 - repeat the steps above
 
-Think of every loop around this circle as a development "unit of work" that ends with a repository push. 
+Think of every loop around this circle as a development "unit of work" that ends with a repository commit and push. 
 
 Here are some workflow tips:
-- Have all your tools open and be aware of how they work together.
+- Have basic documentation and reference material on hand.
+- Open all your tools and be aware of how they work together.
 - You may eventually want more display monitor "real estate," such as a second larger monitor.
 - Keep your unit of work small enough so that your commits are frequent, not much longer than thirty minutes apart.
 - Keep your unit of work small enough so that it expresses one idea in the project, such as a new feature or a bug fix.
 - Small units of work are easier to reason about if you have to review your past work.
 - Small units of work mean your work is being backed up on GitHub more frequently.
-- Make a habit of pushing after every commit, since this will ensure that your changes get backed up to GitHub.
+- Make a habit of pushing after every commit, since this will ensure that your changes are sent to GitHub.
 - When your coding time ends, or you are called away, make a final commit and push. That's a unit of work also.
 - Remember that your browser and Git client cannot "see" changes until they are saved in your editor.
 
@@ -175,31 +176,26 @@ Here are some workflow tips:
 
 It is inevitable that your website will not work as you expected. You will have to find out what's wrong and fix it. This process of debugging can be very frustrating, and can be very creative and rewarding. The more debugging you do, the better you'll get. 
 
+Before any detailed debugging, run your HTML, CSS and JavaScript through code validators and prettifiers.
+
 Here are some debugging tips:
+- Have basic documentation and reference material on hand.
 - Compose a detailed statement of the problem you see, for your own reference.
-- Build a bookmark library of basic documentation on HTML, CSS, JavaScript, and your browser, for your reference.
 - Chop larger problems into smaller problems, until you have problems too small to escape solutions.
 - When debugging a feature, try it in isolation in a code pen.
 - When you add a new feature to your project, start small and simple until you learn all its corners.
-- Use the Rubber Duck method. https://en.wikipedia.org/wiki/Rubber_duck_debugging
-
-
+- Use the [Rubber Duck] method. (https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 You may find the following links helpful:
-- Code Louisville template project [link]
-- Learn Difficult Concepts with the ADEPT Method https://betterexplained.com/articles/adept-method/
-- How to Become a More Effective Learner https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162
-- W3Schools [link]
-
-- Code validators and prettifiers find errors and beautify formatting
+- Code validators and prettifiers help find errors and beautify formatting
   - HTML [link]
   - CSS [link]
   - JavaScript [link]
-  - Code pens are a way to build and test small website features
+  - Code pens are a way to build and test small website features in isolation
     - [link]
     - [link]
     - [link]
-  - Online Spell Check https://www.online-spellcheck.com/
+  - [Online Spell Check] (https://www.online-spellcheck.com/)
 - Other useful sites
   - [links]
 
@@ -207,18 +203,18 @@ You may find the following links helpful:
 
 ### Code editors
   ...Remarks about editors...
-  - Visual Studio Code https://code.visualstudio.com/
-  - Sublime Text http://www.sublimetext.com/
-  - Atom https://atom.io/
-  - Notepad++ https://notepad-plus-plus.org/
+  - [Visual Studio Code] (https://code.visualstudio.com/)
+  - [Sublime Text] (http://www.sublimetext.com/)
+  - [Atom] (https://atom.io/)
+  - [Notepad++] (https://notepad-plus-plus.org/)
 
 ### Browser
   At end of session, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
   - Browser documentation
-    - Chrome [link]
-    - Chrome documentation [link]
-    - Mozilla (Firefox) [link]
-    - Mozilla documentation [link]
+    - [Chrome] [link]
+    - [Chrome documentation] [link]
+    - [Mozilla (Firefox)] [link]
+    - [Mozilla documentation] [link]
 
 ### Git and GitHub
   Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the session to deal with Git and GitHub, as this will likely not work well for you.
@@ -238,10 +234,10 @@ You may find the following links helpful:
   - GitHub can help build, deploy and host your projects.
   
   Here are links to Git documentation you may find useful:
-  - Git Tutorial https://git-scm.com/docs/gittutorial
-  - Getting Git right https://www.atlassian.com/git
-  - GitHub for the rest of us https://www.infoworld.com/article/2886828/github-for-the-rest-of-us.html
-  - Git For Ages 4 And Up https://www.youtube.com/watch?v=1ffBJ4sVUb4
+  - [Git Tutorial] (https://git-scm.com/docs/gittutorial)
+  - [Getting Git right] (https://www.atlassian.com/git)
+  - [GitHub for the rest of us] (https://www.infoworld.com/article/2886828/github-for-the-rest-of-us.html)
+  - [Git For Ages 4 And Up] (https://www.youtube.com/watch?v=1ffBJ4sVUb4)
   
 ### Hosting
   There are several ways to convey your project to someone who is interested in a running and examining it. However you chose, make sure you describe in your project README how a guest can put your project into action.
