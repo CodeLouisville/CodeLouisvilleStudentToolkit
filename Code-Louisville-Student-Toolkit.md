@@ -184,7 +184,7 @@ Here are some debugging tips:
 - Chop larger problems into smaller problems, until you have problems too small to escape solutions.
 - When debugging a feature, try it in isolation in a code pen.
 - When you add a new feature to your project, start small and simple until you learn all its corners.
-- Use the [Rubber Duck] method. (https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+- Use the [Rubber Duck method.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 You may find the following links helpful:
 - Code validators and prettifiers help find errors and beautify formatting
@@ -195,7 +195,7 @@ You may find the following links helpful:
     - [link]
     - [link]
     - [link]
-  - [Online Spell Check] (https://www.online-spellcheck.com/)
+  - [Online Spell Check](https://www.online-spellcheck.com/)
 - Other useful sites
   - [links]
 
@@ -203,18 +203,18 @@ You may find the following links helpful:
 
 ### Code editors
   ...Remarks about editors...
-  - [Visual Studio Code] (https://code.visualstudio.com/)
-  - [Sublime Text] (http://www.sublimetext.com/)
-  - [Atom] (https://atom.io/)
-  - [Notepad++] (https://notepad-plus-plus.org/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Sublime Text](http://www.sublimetext.com/)
+  - [Atom](https://atom.io/)
+  - [Notepad++](https://notepad-plus-plus.org/)
 
 ### Browser
   At end of session, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
   - Browser documentation
-    - [Chrome] [link]
-    - [Chrome documentation] [link]
-    - [Mozilla (Firefox)] [link]
-    - [Mozilla documentation] [link]
+    - [Chrome]()
+    - [Chrome documentation]()
+    - [Mozilla (Firefox)]()
+    - [Mozilla documentation]()
 
 ### Git and GitHub
   Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the session to deal with Git and GitHub, as this will likely not work well for you.
@@ -234,13 +234,13 @@ You may find the following links helpful:
   - GitHub can help build, deploy and host your projects.
   
   Here are links to Git documentation you may find useful:
-  - [Git Tutorial] (https://git-scm.com/docs/gittutorial)
-  - [Getting Git right] (https://www.atlassian.com/git)
-  - [GitHub for the rest of us] (https://www.infoworld.com/article/2886828/github-for-the-rest-of-us.html)
-  - [Git For Ages 4 And Up] (https://www.youtube.com/watch?v=1ffBJ4sVUb4)
+  - [Git Tutorial](https://git-scm.com/docs/gittutorial)
+  - [Getting Git right](https://www.atlassian.com/git)
+  - [GitHub for the rest of us](https://www.infoworld.com/article/2886828/github-for-the-rest-of-us.html)
+  - [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
   
 ### Hosting
   There are several ways to convey your project to someone who is interested in a running and examining it. However you chose, make sure you describe in your project README how a guest can put your project into action.
   - Have your guest clone or download your project to their workstation, and point their browser to the index.html file.
-  - Have GitHub host your project, and give your guest a link to that site. [link]
+  - Have GitHub host your project, and give your guest a link to that site. [More info]()
   - Subscribe to a hosting site, such as Azure or AWS, and point your guest to that site.
