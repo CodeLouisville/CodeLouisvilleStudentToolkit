@@ -35,7 +35,7 @@ Here are some tactics that may help with weekly sessions:
 - Early in building your project, prepare and share a wireframe diagram of your website layout.
 - During a video conference, keep your microphone muted when not talking.
 - When you do talk, use headphones to help prevent feedback from your end.
-- When you share your text editor window, use large text settings.
+- When you share your code editor window, use large text settings.
 - Pay attention when other students present, you may see the answer to a problem you have.
 - Pay attention when other students present, you may see a chance to answer a question they have.
 - When you want to share your project with someone, provide a link to your GitHub project repository.
@@ -168,7 +168,7 @@ Think about workflow. As you build your project, you will
 - repeat the steps above
 
 Therefore, your attention will be focused
-- in the editor
+- in the code editor
 - in the browser's main display
 - in the browser's debugging tool
 - in the Git client
@@ -187,7 +187,7 @@ Here are some workflow tips:
 - Small units of work mean your work is being backed up on GitHub more frequently.
 - Make a habit of pushing after every commit, since this will ensure that your changes are sent to GitHub.
 - When your coding time ends, or you are called away, make a final commit and push. That's a unit of work also.
-- Remember that your browser and Git client cannot "see" changes until they are saved in your editor.
+- Remember that your browser and Git client cannot "see" changes until they are saved in your code editor.
 
 ## Debugging
 
