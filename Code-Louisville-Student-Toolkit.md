@@ -87,10 +87,10 @@ Here are some tactics that may help when building your project:
 You may find the following links helpful:
 - [Code Louisville template project](https://github.com/CodeLouisville/front-end-template)
 - [W3Schools](https://www.w3schools.com/)
-- [image placeholder]()
-- [free images]()
-- [lorem ipsum]()
-- [lorem ipsum]()
+- [Free Image Placeholder Service](https://placeholder.com/)
+- [Free stock images and videos](https://www.pexels.com/)
+- [Lorem Ipsum Generator](https://www.lipsum.com/)
+- [15 Funny Lorem Ipsum Generators](https://www.shopify.com/partners/blog/79940998-15-funny-lorem-ipsum-generators-to-shake-up-your-design-mockups)
 - Other useful sites
   - [Useful site](https://example.com/)
   - [Useful site](https://example.com/)
