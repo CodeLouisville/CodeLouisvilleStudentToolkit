@@ -126,7 +126,7 @@ Although the project you turn in should reflect your own work, you are encourage
 
 You can share your projects with each other and give each other advice. If you see a question posted on Slack, and you know the answer, you are invited to answer it. This reflects how software developers actually work as they support each other in accomplishing goals.
 
-Think of yourself as being in a community of learners. Even the mentors are in a process of learning. A carreer in software development requires constant learning. And you may be called upon to teach others sooner than you think.
+Think of yourself as being in a community of learners. Even the mentors are in a process of learning. A career in software development requires constant learning. And you may be called upon to teach others sooner than you think.
 
 Some tactics that may help when working with other students:
 - Trade GitHub repository links, and get each other's project running successfully.
@@ -231,7 +231,7 @@ You may find the following links helpful:
 
 ### Browser
 
-  At end of course, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
+  At end of course, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandoned by Microsoft, there is little reason to develop for it except as an exercise in pain.
 
   Whatever browser you choose, learn to use its built-in developer inspection tools. These tools can give you a large amount of information about the behavior of your website, such as: Where does a certain element get its styling? Why is my JavaScript returning the wrong results? And, why is an image not being found? Developer tools allow you single-step through a JavaScript program, and alter CSS statements within the browser to immediately debug styling problems.
 
