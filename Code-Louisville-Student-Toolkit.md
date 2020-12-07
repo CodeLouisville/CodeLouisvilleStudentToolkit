@@ -235,10 +235,10 @@ You may find the following links helpful:
 
   Whatever browser you choose, learn to use its built-in developer inspection tools. These tools can give you a large amount of information about the behavior of your website, such as: Where does a certain element get its styling? Why is my JavaScript returning the wrong results? And, why is an image not being found? Developer tools allow you single-step through a JavaScript program, and alter CSS statements within the browser to immediately debug styling problems.
 
-    - [Chrome](https://www.google.com/chrome/)
-    - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
-    - [Mozilla (Firefox)](https://www.mozilla.org/en-US/firefox/)
-    - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+  - [Chrome](https://www.google.com/chrome/)
+  - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+  - [Mozilla (Firefox)](https://www.mozilla.org/en-US/firefox/)
+  - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 ### Git and GitHub
 
