@@ -92,9 +92,8 @@ You may find the following links helpful:
 - [Lorem Ipsum Generator](https://www.lipsum.com/)
 - [15 Funny Lorem Ipsum Generators](https://www.shopify.com/partners/blog/79940998-15-funny-lorem-ipsum-generators-to-shake-up-your-design-mockups)
 - Other useful sites
-  - [Useful site](https://example.com/)
-  - [Useful site](https://example.com/)
-  - [Useful site](https://example.com/)
+  - [Image resizer](https://resizeimage.net/)
+  - [Lorem Picsum - photos](https://picsum.photos/)
 
 ## Working with Code Louisville staff
 
@@ -152,10 +151,8 @@ Here are some study tips that may be helpful:
 You may find the following links helpful:
 - [Learn Difficult Concepts with the ADEPT Method](https://betterexplained.com/articles/adept-method/)
 - [How to Become a More Effective Learner](https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162)
+- [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Online Spell Check](https://www.online-spellcheck.com/)
-- []()
-- []()
-- []()
 
 ## Workflow
 
