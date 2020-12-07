@@ -274,8 +274,8 @@ You may find the following links helpful:
 
 ## Final Thoughts
 
-What you are about to do in Code Louisville will not be easy. It will be time-consuming, frustrating at times, confusing at times. A lot of what you get out of Code Louisville will be what you drag out by its ears. 
+What you are about to do in Code Louisville will not be easy. It will be time-consuming, frustrating at times, confusing at times. A lot of what you get out of Code Louisville will be what you drag out by its ears. But many of you may find the experience rewarding.
 
-But you likely have been motivated by some thought about making a change, of a better-paying or more interesting job, of at least trying the waters to see what's out there. If you don't find what you're looking for at Code Louisville, keep looking, and thanks for hanging out with us for a while. 
+You have likely been motivated by thoughts about making a change, of a better-paying or more interesting job, of at least trying the waters to see what's out there. Take advantage of everything offered while you're here. But if you don't find what you're looking for at Code Louisville, good luck, keep looking, and thanks for hanging out with us for a while. 
 
-Code Louisville mentors and staff want you to succeed. We believe there's a spot for you somewhere as a software developer. Keep coding.
+Code Louisville mentors and staff want you to succeed. We believe there's a spot for you in the field of software development. Keep working, keep coding.
