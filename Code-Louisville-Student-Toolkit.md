@@ -233,6 +233,7 @@ You may find the following links helpful:
   - [Notepad++](https://notepad-plus-plus.org/)
 
 ### Browser
+
   At end of course, Code Louisville FEWD projects are checked on a Chrome browser. There is no requirement that your project has to work on any other browser. Chrome and Firefox are good choices to develop against; Edge, Safari and Opera less so. Since Internet Explorer has been abandonded by Microsoft, there is little reason to develop for it except as an exercise in pain.
 
   Whatever browser you choose, learn to use its built-in developer inspection tools. These tools can give you a large amount of information about the behavior of your website, such as: Where does a certain element get its styling? Why is my JavaScript returning the wrong results? And, why is an image not being found? Developer tools allow you single-step through a JavaScript program, and alter CSS statements within the browser to immediately debug styling problems.
@@ -243,6 +244,7 @@ You may find the following links helpful:
     - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 ### Git and GitHub
+
   Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the course to deal with Git and GitHub, as this will likely not work well for you.
   
   There are a large number of Git clients available, such as the one built into Visual Studeo Code, or the standalone Git GUI client. Because mentors have various experiences with Git clients, and because students have different tools and operating systems installed on their workstations, and because Treehouse offers instruction is just the command-line version of Git, it is important that FEWD students use the command-line version of Git. For Windows, this means the Git Bash client; for Mac, this is the Terminal client. In later courses, you may use other Git clients you prefer. But for FEWD, please master the command-line Git client.
@@ -266,11 +268,16 @@ You may find the following links helpful:
   - [Git For Ages 4 And Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
   
 ### Hosting
+
   There are several ways to convey your project to someone who is interested in a running and examining it. However you chose, make sure you describe in your project README how a guest can put your project into action.
+  
   - Have your guest clone or download your project to their workstation, then point their browser to the index.html file.
   - Have GitHub host your project, and give your guest a link to that site. [GitHub Pages](https://pages.github.com/)
   - Subscribe to a hosting site, such as Azure or AWS, and point your guest to that site.
 
 ## Final Thoughts
 
-## About the author
+What you are about to do in Code Louisville will not be easy. It will be time-consuming, frustrating at times, confusing at times. A lot of what you get out of Code Louisville will be what you drag out by its ears. 
+
+But you likely have been motivated by some thought about making a change, of a better-paying or more interesting job, of at least trying the waters to see what's out there. If you don't find what you're looking for at Code Louisville, keep looking, and thanks for hanging out with us for a while.
+
