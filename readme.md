@@ -1,9 +1,8 @@
 
 # Toolkit for Code Louisville FEWD Students
 
-This document describes tactics for success in Code Louisville's Front-End Web Development (FEWD) sessions. 
+This document describes tactics for success in Code Louisville's Front-End Web Development (FEWD) course. Tactics include use of time, engagement in required activities, working with mentors and Code Louisville staff, and using tools and resources.
 
-Tactics include use of time, engagement in required activities, working with mentors and Code Louisville staff, and using other tools and resources.
 
 Help improve this document! Pull requests are welcome. 
 - Our audience is first-time learners in Code Louisville FEWD.
