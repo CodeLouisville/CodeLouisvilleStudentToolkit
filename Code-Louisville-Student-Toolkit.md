@@ -220,7 +220,7 @@ You may find the following links helpful:
 
 ### Code editors
   
-  I've seen students agonize about choosing "the best code editor." You do not have to agonize; just pick a code editor and go with it. If you don't like how it operates, pick another and keep going. The only real requirement for a good code editor for FEWD is that it produce "flat text." Flat text is plainly readable text unadorned with formatting metadata as is produced from a word processor such as Microsoft Word or Libre Office Writer. 
+  Students have been known to agonize about choosing "the best code editor." You do not have to agonize; just pick a code editor and go with it. If you don't like how it operates, pick another and keep going. The only real requirement for a good code editor for FEWD is that it produce "flat text." Flat text is plainly readable text unadorned with formatting metadata as is produced from a word processor such as Microsoft Word or Libre Office Writer. 
   
   There are a number of good choices for code editors; some are listed below. You may find others with a Google search. Features to look for are keyword highlighting, automatic code formatting, and element generation/closure. 
   
@@ -274,8 +274,8 @@ You may find the following links helpful:
 
 ## Final Thoughts
 
-What you are about to do in Code Louisville will not be easy. It will be time-consuming, frustrating at times, confusing at times. A lot of what you get out of Code Louisville will be what you drag out by its ears. But many of you may find the experience rewarding.
+What you are about to do in Code Louisville will not be easy. It will be time-consuming, frustrating at times, confusing at times. A lot of what you get out of Code Louisville will be what you drag out of it. But many of you may find the experience rewarding.
 
-You have likely been motivated by thoughts about making a change, of a better-paying or more interesting job, of at least trying the waters to see what's out there. Take advantage of everything offered while you're here. But if you don't find what you're looking for at Code Louisville, good luck, keep looking, and thanks for hanging out with us for a while. 
+You have likely been motivated by thoughts about making a change, of a better-paying or more interesting job, of at least trying the waters to see what's out there. Take advantage of everything offered while you're here. If you don't find what you're looking for at Code Louisville, good luck, keep looking, and thanks for hanging out with us for a while. 
 
 Code Louisville mentors and staff want you to succeed. We believe there's a spot for you in the field of software development. Keep working, keep coding.
