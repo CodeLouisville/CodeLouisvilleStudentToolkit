@@ -79,6 +79,7 @@ Here are some tactics that may help when building your project:
 - Plan initially for a minimum number of features based on requirements.
 - Add project features from the requirements document as you have time.
 - Use Lorem Ipsum text and image placeholders as content.
+- Refer to the Code Louisville template project for file and directory layout.
 - Check your progress frequently with mentors and fellow students.
 - Get more than one opinion on the health of your project before you turn it in.
 - Write clean code. Run your code through code validators and formatters.
@@ -244,7 +245,7 @@ You may find the following links helpful:
 
   Git and GitHub can be difficult to master, if you're not worked with repository technology before. But as you do master it, I think you'll see that they provide a lot of useful services to you and your projects. It is best to start early in learning Git and GitHub. Practice and review getting a local repository set up and pushed, and do this several times until you are reasonably comfortable with the process. Try to get big questions about their use settled before you begin your project. Do not by any means wait until the end of the course to deal with Git and GitHub, as this will likely not work well for you.
   
-  There are a large number of Git clients available, such as the one built into Visual Studeo Code, or the standalone Git GUI client. Because mentors have various experiences with Git clients, and because students have different tools and operating systems installed on their workstations, and because Treehouse offers instruction is just the command-line version of Git, it is important that FEWD students use the command-line version of Git. For Windows, this means the Git Bash client; for Mac, this is the Terminal client. In later courses, you may use other Git clients you prefer. But for FEWD, please master the command-line Git client.
+  There are a large number of Git clients available, such as the one built into Visual Studeo Code, or the standalone Git GUI client. Because mentors have various experiences with Git clients, and because students have different tools and operating systems installed on their workstations, and because Treehouse offers instruction in just the command-line version of Git, it is important that FEWD students use the command-line version of Git. For Windows, this means the Git Bash client; for Mac, this is the Terminal client. In later courses, you may use other Git clients you prefer. But for FEWD, please use the command-line Git client.
   
   Here are some of the services that Git and GitHub provide:
   - Git tracks and keeps a record of all the work you've done on your project.
