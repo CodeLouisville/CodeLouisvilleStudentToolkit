@@ -248,13 +248,10 @@ You may find the following links helpful:
   There are a large number of Git clients available, such as the one built into Visual Studeo Code, or the standalone Git GUI client. Because mentors have various experiences with Git clients, and because students have different tools and operating systems installed on their workstations, and because Treehouse offers instruction in just the command-line version of Git, it is important that FEWD students use the command-line version of Git. For Windows, this means the Git Bash client; for Mac, this is the Terminal client. In later courses, you may use other Git clients you prefer. But for FEWD, please use the command-line Git client.
   
   Here are some of the services that Git and GitHub provide:
-  - Git tracks and keeps a record of all the work you've done on your project.
-  - Git uses a chaining scheme to assure that your repository cannot be falsified by bad actors.
-  - Git allows you to work in speculative "branches," then merge those branches into main development later.
-  - Git and GitHub can coordinate the work of multiple people on a single project.
-  - Git and Github allow for each developer to be disconnected from each other, and join work together later.
-  - GitHub allows you to share your work and ideas around the world for free.
-  - GitHub allows you to find and examine the work of many talented people around the world.
+  - Git keeps a log of all the work you've done on your project.
+  - Git allows you to work in speculative "branches," then merge those branches.
+  - GitHub allows you to share your work and ideas around the world.
+  - GitHub allows you to find and examine the work of talented people around the world.
   - GitHub allows you to collaborate with other software projects.
   - Github can be used for other digital work, such as books and musical scores.
   - GitHub can help build, deploy and host your projects.
